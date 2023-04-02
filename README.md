@@ -1,2 +1,2 @@
 # Important-Commands
-It contains all the important commands related to MERN.
+It contains all the important commands for react.
